@@ -1,0 +1,7 @@
+- Class
+- Constructor
+- Objek
+- Atribut
+- Metode
+- Overload
+- Override
