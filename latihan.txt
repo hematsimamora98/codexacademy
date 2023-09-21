@@ -2,3 +2,5 @@ Code X Academy
 - Belajar Database di PostgreSQL
 - Belajar JavaScript
 - Belajar TypeScript
+
+Materi TypeScript 
